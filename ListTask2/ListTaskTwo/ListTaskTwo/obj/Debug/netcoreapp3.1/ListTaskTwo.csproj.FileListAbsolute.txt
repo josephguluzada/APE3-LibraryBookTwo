@@ -1,0 +1,14 @@
+C:\Users\asus\Desktop\ListTask2\ListTaskTwo\ListTaskTwo\bin\Debug\netcoreapp3.1\ListTaskTwo.exe
+C:\Users\asus\Desktop\ListTask2\ListTaskTwo\ListTaskTwo\bin\Debug\netcoreapp3.1\ListTaskTwo.deps.json
+C:\Users\asus\Desktop\ListTask2\ListTaskTwo\ListTaskTwo\bin\Debug\netcoreapp3.1\ListTaskTwo.runtimeconfig.json
+C:\Users\asus\Desktop\ListTask2\ListTaskTwo\ListTaskTwo\bin\Debug\netcoreapp3.1\ListTaskTwo.runtimeconfig.dev.json
+C:\Users\asus\Desktop\ListTask2\ListTaskTwo\ListTaskTwo\bin\Debug\netcoreapp3.1\ListTaskTwo.dll
+C:\Users\asus\Desktop\ListTask2\ListTaskTwo\ListTaskTwo\bin\Debug\netcoreapp3.1\ListTaskTwo.pdb
+C:\Users\asus\Desktop\ListTask2\ListTaskTwo\ListTaskTwo\obj\Debug\netcoreapp3.1\ListTaskTwo.csproj.AssemblyReference.cache
+C:\Users\asus\Desktop\ListTask2\ListTaskTwo\ListTaskTwo\obj\Debug\netcoreapp3.1\ListTaskTwo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asus\Desktop\ListTask2\ListTaskTwo\ListTaskTwo\obj\Debug\netcoreapp3.1\ListTaskTwo.AssemblyInfoInputs.cache
+C:\Users\asus\Desktop\ListTask2\ListTaskTwo\ListTaskTwo\obj\Debug\netcoreapp3.1\ListTaskTwo.AssemblyInfo.cs
+C:\Users\asus\Desktop\ListTask2\ListTaskTwo\ListTaskTwo\obj\Debug\netcoreapp3.1\ListTaskTwo.csproj.CoreCompileInputs.cache
+C:\Users\asus\Desktop\ListTask2\ListTaskTwo\ListTaskTwo\obj\Debug\netcoreapp3.1\ListTaskTwo.dll
+C:\Users\asus\Desktop\ListTask2\ListTaskTwo\ListTaskTwo\obj\Debug\netcoreapp3.1\ListTaskTwo.pdb
+C:\Users\asus\Desktop\ListTask2\ListTaskTwo\ListTaskTwo\obj\Debug\netcoreapp3.1\ListTaskTwo.genruntimeconfig.cache
